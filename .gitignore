@@ -1,3 +1,6 @@
-data.csv
+*.csv
 weights/
 data/
+.idea/
+saved_state_dict/
+.ipynb_checkpoints/
