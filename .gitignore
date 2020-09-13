@@ -1,6 +1,10 @@
 *.csv
+*.pt
+*.pth
 weights/
 data/
+result/
 .idea/
 saved_state_dict/
 .ipynb_checkpoints/
+
