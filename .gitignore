@@ -1,7 +1,11 @@
 *.csv
 *.pt
 *.pth
-~*.xlsx
+*.pdf
+*.xlsx
+
+
+
 weights/
 data/
 result/
